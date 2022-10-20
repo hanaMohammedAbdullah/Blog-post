@@ -1,9 +1,9 @@
 # Blog Post 
 ## simple description
 it is a a simple blog post to post and share your blogs
-![Demo1](public/Bio.jpg)
-![Demo2](public/posts.jpg)
-![Demo3](public/post.jpg)
+![Demo1](public/images/Bio.jpg)
+![Demo2](public/images/posts.jpg)
+![Demo3](public/images/post.jpg)
 
 ## the Tool and Program used
 The Tool :
